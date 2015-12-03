@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "name": "flint-app-loaders",
+  "repository": "https://github.com/loaders",
+  "description": "",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {},
+  "dependencies": {
+    "json-loader": "^0.5.4",
+    "statuses": "^1.2.1"
+  },
+  "installed": []
+}
